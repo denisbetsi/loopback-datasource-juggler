@@ -38,7 +38,11 @@
     "loopback-connector": "^2.1.0",
     "node-uuid": "^1.4.2",
     "qs": "^3.1.0",
-    "traverse": "^0.6.6"
+    "traverse": "^0.6.6",
+    "neo4j-js": "0.0.8",
+    "seraph": "^0.9.12",
+    "loopback-connector-neo4j": "https://github.com/denisbetsi/loopback-connector-neo4j/tarball/master",
+    "loopback-connector-couch": "*",
   },
   "license": {
     "name": "Dual MIT/StrongLoop",
